@@ -10,7 +10,7 @@
 - I'm a mathematics student at IPN 📈
 - Sports are my hobbie, however I only practice swimming and soccer.🏊⚽
 - I'm interested in programming, big data and web development and design.✍
-- I read about crypto, ethereum, NFT's and smart contracts.
+- I read about crypto, ethereum, NFT's and smart contracts.💰
 
 <p align="left">
   <a href="https://github.com/Emmanuelprz1400"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Emmanuelprz1400&show_icons=true&theme=algolia ">
