@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://github.com/Emmanuelprz1400"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Emmanuelprz1400&show_icons=true&theme=algolia ">
   <a href="https://github.com/Emmanuelprz1400"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelprz1400&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=algolia  ">
-  <a href="https://github.com/Emmanuelprz1400"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Emmanuelprz1400&row=1&column=5&theme=algolia">
+  <a href="https://github.com/Emmanuelprz1400"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Emmanuelprz1400&row=1&column=4&theme=algolia">
 
 ## ``My repos💻``
 
