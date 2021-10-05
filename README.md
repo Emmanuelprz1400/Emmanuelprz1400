@@ -9,7 +9,8 @@
 ## ``About me``
 - I'm a mathematics student at IPN 📈
 - Sports are my hobbie, however I only practice swimming and soccer.🏊⚽
-- I'm interested in programming, big data and web development and design.✍
+- I'm interested in programming, testing, big data and web development and design.🖥️
+- Interested in Blockchain, Smart Contracts and NTFs.💰 
 - How to reach me? If you like my repos, you would contact me by _**[E-mail](mailto:emmanuelprz17@gmail.com)**_ , _**[Linkedin](https://www.linkedin.com/in/emmanuelprz)**_ or _**[Twitter](https://www.twitter.com/emmanuelprz17)**_ 
 
 <p align="left">
