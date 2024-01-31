@@ -14,17 +14,15 @@
 - How to reach me? If you like my repos, you would contact me by _**[E-mail](mailto:emmanuelprz17@gmail.com)**_ , _**[Linkedin](https://www.linkedin.com/in/emmanuelprz)**_ or _**[Twitter](https://www.twitter.com/emmanuelprz17)**_ 
 
 <p align="left">
-  <a href="https://github.com/Emmanuelprz1400"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Emmanuelprz1400&show_icons=true&theme=algolia ">
-  <a href="https://github.com/Emmanuelprz1400"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelprz1400&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=algolia  ">
   <a href="https://github.com/Emmanuelprz1400"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Emmanuelprz1400&row=1&column=4&theme=algolia">
 
 ## ``My repos💻``
 
 <p align="left">    
-   <a href="https://github.com/Emmanuelprz1400/ticket-2"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&repo=ticket-2&langs_count=5&theme=algolia  ">
-  <a href="https://github.com/Emmanuelprz1400/ticket-1"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=ticket-1&langs_count=5&layout=compact&theme=algolia  ">
-  <a href="https://github.com/xHaches/Entrega-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=xHaches&card_height=300&&repo=Entrega-Final&langs_count=5&layout=compact&theme=algolia ">  
-  <a href="https://github.com/ESFM-X/horarios"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ESFM-X&card_height=300&&repo=horarios&langs_count=5&layout=compact&theme=algolia ">  
+   <a href="https://github.com/Emmanuelprz1400/ticket-2"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=ticket-1&langs_count=5&layout=compact&theme=algolia">
+  <a href="https://github.com/Emmanuelprz1400/ticket-1"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=ticket-1&langs_count=5&layout=compact&theme=algolia">
+  <a href="https://github.com/xHaches/Entrega-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=xHaches&card_height=300&&repo=Entrega-Final&langs_count=5&layout=compact&theme=algolia">  
+  <a href="https://github.com/ESFM-X/horarios"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ESFM-X&card_height=300&&repo=horarios&langs_count=5&layout=compact&theme=algolia">  
  </p>
 
 
@@ -32,13 +30,17 @@
  
 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'>
+<img width ='32px' src ='https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg'>
+<img width ='32px' src ='https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mocha.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'>
