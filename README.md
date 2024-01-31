@@ -7,10 +7,10 @@
 [![Twitter Emmanuel](https://img.shields.io/twitter/follow/Emmanuelprz17?style=social)](https://twitter.com/Emmanuelprz17)
 
 ## ``About me``
-- I'm a mathematics student at IPN 📈
+- I am a mathematician, graduated from IPN school. 📈
 - Sports are my hobbie, however I only practice swimming and soccer.🏊⚽
-- Study on programming, testing, big data and web development and design.🖥️
-- Interested in Blockchain, Smart Contracts and NTFs.💰 
+- I work as Software Development, specialized in the analysis and design of innovative applications, applying business logic principles to optimize processes and improve operational efficiency..🖥️
+- Study in Deep Learning, Neural Networks and NLP. 📊
 - How to reach me? If you like my repos, you would contact me by _**[E-mail](mailto:emmanuelprz17@gmail.com)**_ , _**[Linkedin](https://www.linkedin.com/in/emmanuelprz)**_ or _**[Twitter](https://www.twitter.com/emmanuelprz17)**_ 
 
 <p align="left">
