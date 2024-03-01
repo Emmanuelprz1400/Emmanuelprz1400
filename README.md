@@ -18,12 +18,11 @@
 
 ## ``My repos💻``
 
-<p align="left">    
-   <a href="https://github.com/Emmanuelprz1400/customer-classifier"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=ticket-1&langs_count=5&layout=compact&theme=algolia">
-  <a href="https://github.com/Emmanuelprz1400/ticket-1"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=ticket-1&langs_count=5&layout=compact&theme=algolia">
-  <a href="https://github.com/xHaches/Entrega-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=xHaches&card_height=300&&repo=Entrega-Final&langs_count=5&layout=compact&theme=algolia">  
-  <a href="https://github.com/ESFM-X/horarios"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ESFM-X&card_height=300&&repo=horarios&langs_count=5&layout=compact&theme=algolia">  
- </p>
+<p align="rigth">    
+  <a href="https://github.com/Emmanuelprz1400/customer-classifier"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=customer-classifier&langs_count=5&layout=compact&theme=algolia">
+    
+  <a href="https://github.com/Emmanuelprz1400/basket-fraud"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=basket-fraud&langs_count=5&layout=compact&theme=algolia">
+  
 
 
 ## ``Skills and Tools`` <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
