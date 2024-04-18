@@ -18,9 +18,10 @@
 
 ## ``My repos💻``
 
-<p align="rigth">    
+<p align="left">    
   <a href="https://github.com/Emmanuelprz1400/customer-classifier"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=customer-classifier&langs_count=5&layout=compact&theme=algolia">    
-  <a href="https://github.com/Emmanuelprz1400/basket-fraud"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=basket-fraud&langs_count=5&layout=compact&theme=algolia">
+ <a href="https://github.com/Emmanuelprz1400/classifier-reviews"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=classifier-reviews&langs_count=5&layout=compact&theme=algolia">   
+  <a href="https://github.com/Emmanuelprz1400/basket-fraud"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=basket-fraud&langs_count=5&layout=compact&theme=algolia">  
   <a href="https://github.com/Emmanuelprz1400/cancer-classifier"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelprz1400&card_height=300&&repo=cancer-classifier&langs_count=5&layout=compact&theme=algolia">
   
   
