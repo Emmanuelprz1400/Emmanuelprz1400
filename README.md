@@ -33,6 +33,8 @@
   },
   "certifications": [
     "Machine Learning & AI",
+    "Mathematics for Data Science",
+    "Deep Learning"
     "Data Analysis",
     "SCRUM Master",
     "Secure development"
@@ -47,6 +49,8 @@
       "Python",
       "SQL",
       "R",
+      "Scikit-learn",
+      "Tensorflow", 
       "Tableau",
       "Statistics",
       "NLP",
